@@ -27,4 +27,13 @@ AWS EC2で構築したWordPressを、github.ioのpagesに移行したい。
       $ jekyll s --drafts
       ```
     + .gitignoreに_draftsを書くのを忘れずに。
-    
+  + [Imgur API を使ってサクッと画像アップロードしてみた](https://pisuke-code.com/web-basic-usage-of-imgur-api/)
+    + 参考になるポイント
+      + 画像をアップロードするサンプルコード（Javescript）
+      + jonsのレスポンス形式（そこから、アップロード先のURLを取得することが可能） 
+
+## 作業手順
+### リポジトリ作成
+別のgithub.comのuserで、<user>.github.ioというリポジトリを作成した。
+![image](https://github.com/gxliu28/pages-test/assets/6185457/1d24cfe9-c058-45b2-bc1a-ebc2117c6273)
+
