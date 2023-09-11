@@ -30,7 +30,14 @@ AWS EC2で構築したWordPressを、github.ioのpagesに移行したい。
   + [Imgur API を使ってサクッと画像アップロードしてみた](https://pisuke-code.com/web-basic-usage-of-imgur-api/)
     + 参考になるポイント
       + 画像をアップロードするサンプルコード（Javescript）
-      + jonsのレスポンス形式（そこから、アップロード先のURLを取得することが可能） 
+      + jonsのレスポンス形式（そこから、アップロード先のURLを取得することが可能）
+  + [最強の画像アップロードサイト「Imgur.com」のAPIを利用する（匿名画像アップロード編)](https://qiita.com/AKB428/items/a5f68a3288cc596975ae)
+    + 参考になるポイント
+      + 匿名モードで画像をアップロードする機能を実装するrubyのサンプルコードがある（実動を検証済）。
+  + [imgurに画像をアップロードするBashスクリプト](https://tomowarkar.github.io/blog/posts/imgur_api/)
+    + 参考になるポイント
+      + bashスクリプトでimgur.comのAPIをコールするサンプルコードがある
+      +  
 
 ## 作業手順
 ### リポジトリ作成
