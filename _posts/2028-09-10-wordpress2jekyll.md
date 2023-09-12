@@ -27,17 +27,18 @@ AWS EC2で構築したWordPressを、github.ioのpagesに移行したい。
       $ jekyll s --drafts
       ```
     + .gitignoreに_draftsを書くのを忘れずに。
+  + [Unofficial JavaScript library for the Imgur.com API](https://www.npmjs.com/package/imgur)
+    + npm install imgur
+    + imgurのライブラリを利用して、簡単に画像アップロードなどを実行できる。
   + [Imgur API を使ってサクッと画像アップロードしてみた](https://pisuke-code.com/web-basic-usage-of-imgur-api/)
-    + 参考になるポイント
-      + 画像をアップロードするサンプルコード（Javescript）
-      + jonsのレスポンス形式（そこから、アップロード先のURLを取得することが可能）
+    + 画像をアップロードするサンプルコード（Javescript）
+     + jonsのレスポンス形式（そこから、アップロード先のURLを取得することが可能）
   + [最強の画像アップロードサイト「Imgur.com」のAPIを利用する（匿名画像アップロード編)](https://qiita.com/AKB428/items/a5f68a3288cc596975ae)
-    + 参考になるポイント
-      + 匿名モードで画像をアップロードする機能を実装するrubyのサンプルコードがある（実動を検証済）。
+    + 匿名モードで画像をアップロードする機能を実装するrubyのサンプルコードがある（実動を検証済）。
   + [imgurに画像をアップロードするBashスクリプト](https://tomowarkar.github.io/blog/posts/imgur_api/)
-    + 参考になるポイント
-      + bashスクリプトでimgur.comのAPIをコールするサンプルコードがある
-      +  
+    + bashスクリプトでimgur.comのAPIをコールするサンプルコードがある
+  + [Vimにスクショを直接Markdownで貼り付ける](https://spinners.work/posts/vim-markdown-paste-from-clipboard/)
+    + スクショ（クリップボード）をコマンド一発でVimにMarkdown形式で貼り付け方法を紹介している。
 
 ## 作業手順
 ### リポジトリ作成
