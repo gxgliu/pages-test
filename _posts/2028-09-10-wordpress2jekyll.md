@@ -48,4 +48,10 @@ AWS EC2で構築したWordPressを、github.ioのpagesに移行したい。
 ## 他の参考資料
 + [複数のGitHubアカウントを使い分けたい時の設定方法とTips](https://zenn.dev/taichifukumoto/articles/how-to-use-multiple-github-accounts)
 + [Adding a theme to your GitHub Pages site using Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll#adding-a-theme)
++ [Jekyll Themes](http://jekyllthemes.org/)
+  + [Moonwalk](http://jekyllthemes.org/themes/moonwalk/)
+  + [abhinavs / moonwalk](https://github.com/abhinavs/moonwalk)
+  + [Moonwalk](https://www.abhinavsaxena.com/moonwalk/)
+  + [Moonwalk](https://www.abhinav.co/moonwalk)
++ [htmlで画像が自動で切り替わる「スライドショー」のテンプレート](https://lab.dxo.co.jp/notes/web-design/images-slideshow)
 
