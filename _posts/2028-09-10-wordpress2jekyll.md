@@ -45,3 +45,6 @@ AWS EC2で構築したWordPressを、github.ioのpagesに移行したい。
 別のgithub.comのuserで、<user>.github.ioというリポジトリを作成した。
 ![image](https://github.com/gxliu28/pages-test/assets/6185457/1d24cfe9-c058-45b2-bc1a-ebc2117c6273)
 
+## 他の参考資料
++ [複数のGitHubアカウントを使い分けたい時の設定方法とTips](https://zenn.dev/taichifukumoto/articles/how-to-use-multiple-github-accounts)
+
