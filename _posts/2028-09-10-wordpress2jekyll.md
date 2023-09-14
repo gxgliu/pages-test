@@ -46,12 +46,23 @@ AWS EC2で構築したWordPressを、github.ioのpagesに移行したい。
 ![image](https://github.com/gxliu28/pages-test/assets/6185457/1d24cfe9-c058-45b2-bc1a-ebc2117c6273)
 
 ## 他の参考資料
-+ [複数のGitHubアカウントを使い分けたい時の設定方法とTips](https://zenn.dev/taichifukumoto/articles/how-to-use-multiple-github-accounts)
+### Jekyll Themes
 + [Adding a theme to your GitHub Pages site using Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll#adding-a-theme)
 + [Jekyll Themes](http://jekyllthemes.org/)
+  + [Beautiful Jekyll](https://www.abhinavsaxena.com/moonwalk/overview-post)
   + [Moonwalk](http://jekyllthemes.org/themes/moonwalk/)
-  + [abhinavs / moonwalk](https://github.com/abhinavs/moonwalk)
-  + [Moonwalk](https://www.abhinavsaxena.com/moonwalk/)
-  + [Moonwalk](https://www.abhinav.co/moonwalk)
+    + [abhinavs / moonwalk](https://github.com/abhinavs/moonwalk)
+    + [Moonwalk](https://www.abhinavsaxena.com/moonwalk/)
+    + [Moonwalk](https://www.abhinav.co/moonwalk)
+  + [SIMPLE GREEN TECHBLOG](http://jekyllthemes.org/themes/SIMPLE-GREEN-TECH/)
+  + [Yummy Theme](http://dongchuan.github.io/)  
+    Simple, Bootstrap Based Theme. Especially for developers who like to show their projects on website and like to take notes.
+    
+### Best Practices
++ [複数のGitHubアカウントを使い分けたい時の設定方法とTips](https://zenn.dev/taichifukumoto/articles/how-to-use-multiple-github-accounts)
 + [htmlで画像が自動で切り替わる「スライドショー」のテンプレート](https://lab.dxo.co.jp/notes/web-design/images-slideshow)
+
+### Good Blogs
++ https://haltaro.github.io/
++ 
 
